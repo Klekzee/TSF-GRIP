@@ -6,3 +6,5 @@ pmdarima
 statsmodels
 bs4
 requests
+seaborn
+nltk
