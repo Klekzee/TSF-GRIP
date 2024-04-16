@@ -8,3 +8,5 @@ bs4
 requests
 seaborn
 nltk
+xgboost
+category_encoders
