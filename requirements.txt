@@ -10,3 +10,4 @@ seaborn
 nltk
 xgboost
 category_encoders
+scikit-optimize
