@@ -17,7 +17,7 @@ Includes an **Exploratory Data Analysis** (EDA) of the Sample SuperStore Dataset
 
 ## 2. Stock Market Prediction using Numerical and Textual Analysis
 
-Includes a Sentiment Analysis of Philippine News Headlines and the Philippine Stock Index (PSEI), as well as Machine Learning using an ARIMA model with 99.13% accuracy in the predictions
+Includes a **Sentiment Analysis** of Philippine News Headlines and the Philippine Stock Index (PSEI), as well as **Machine Learning** using an ARIMA model with 99.13% accuracy in the predictions
 
 * [Jupyter Notebook](https://github.com/Klekzee/TSF-GRIP/blob/main/Task%207/01_PSEI_Analysis.ipynb)
 
@@ -25,4 +25,4 @@ Includes a Sentiment Analysis of Philippine News Headlines and the Philippine St
 <br>
 
 ## NOTE
-If the notebook files (`.ipynb`) are not rendering, you can check them using nbviewer [here](https://nbviewer.org/github/Klekzee/TSF-GRIP/tree/main/).
+If the notebook files (`.ipynb`) are not rendering, you can check them using nbviewer [here](https://nbviewer.org).
